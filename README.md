@@ -42,3 +42,5 @@ This is an educational project using fictional banking information. It does not 
 
 Currently under development. Features and evaluation results will be updated as implementation progresses.
 
+https://github.com/user-attachments/assets/4e8b1359-479f-4e11-9ca3-f0d687ab1806
+
