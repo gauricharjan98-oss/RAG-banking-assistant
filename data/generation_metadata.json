@@ -1,0 +1,23 @@
+{
+  "documents": 18,
+  "word_counts": {
+    "digital_banking_guide.md": 880,
+    "atm_policy.md": 819,
+    "credit_card_guide.md": 975,
+    "current_account_policy.md": 848,
+    "debit_card_guide.md": 835,
+    "savings_account_policy.md": 1061,
+    "mobile_banking_guide.md": 1070,
+    "fund_transfer_guide.md": 936,
+    "personal_loan_policy.md": 974,
+    "neft_rtgs_imps_guide.md": 947,
+    "loan_faq.md": 866,
+    "account_closure_policy.md": 1035,
+    "kyc_requirements.md": 1003,
+    "customer_support_policy.md": 1026,
+    "fees_and_charges.md": 1057,
+    "complaint_resolution_policy.md": 978,
+    "fraud_and_security_guide.md": 1064,
+    "branch_banking_faq.md": 919
+  }
+}
